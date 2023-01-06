@@ -1,2 +1,0 @@
-# CodingExercise
-Coding Exercise
